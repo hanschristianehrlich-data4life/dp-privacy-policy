@@ -1,0 +1,235 @@
+Datenschutzerklärung
+
+Mit dem Angebot von Data4Life, welches Sie über unsere Web-App nutzen können, ermöglichen wir Ihnen die sichere digitale Speicherung und Verwaltung Ihrer Gesundheitsdaten. Beachten Sie, dass das Angebot von Data4Life keine diagnostischen bzw. medizinischen Leistungen erbringt und ausdrücklich keine Behandlung und/oder Beratung durch einen Arzt ersetzt. Diese Informationen beschreiben, wie Data4Life mit Ihren Daten umgeht. Die Abschnitte Ziffer 1 bis 3 informieren Sie über Ihre Rechte, die Abschnitte Ziffer 4 bis 7 erklären, wie Ihre personenbezogenen Daten verarbeitet werden, wenn Sie sich über unsere Web-App auf dem Angebot von Data4Life anmelden und es verwenden.
+
+###1. Verantwortlicher und Datenschutzbeauftragter
+Verantwortlicher gem. Art. 4 Abs. 7 Europäischen Datenschutz-Grundverordnung (DSGVO) für das Frontend, z.B. die Web-App, das Backend, z.B. Autorisierung/Authentifizierung, Datenbanken, und die Infrastruktur, z.B. Server, Datenspeicher, ist die 
+
+D4L data4life gGmbH
+Charlottenstraße 109
+14467 Potsdam
+E-Mail: we@data4life.care
+ 
+Unseren Datenschutzbeauftragten erreichen Sie unter datenschutz@data4life.care oder unserer Postadresse mit dem Zusatz „der Datenschutzbeauftragte“.
+
+###2. Ihre Rechte
+Sie haben uns gegenüber folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+- Recht auf Auskunft (Art. 15 DSGVO)
+- Recht auf Berichtigung (Art. 16 DSGVO)
+- Recht auf Löschung (Art. 17 DSGVO; “Recht auf Vergessenwerden”)
+- Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)
+- Recht auf Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)
+- Recht auf Datenübertragbarkeit (Art. 20 DSGVO)
+
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten rechtswidrig erfolgt. Die für uns zuständige Aufsichtsbehörde ist: 
+
+Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht
+Stahnsdorfer Damm 77
+14532 Kleinmachnow
+Deutschland
+
+Telefon: 033203/356-0
+Telefax: 033203/356-49
+E-Mail: Poststelle@LDA.Brandenburg.de
+
+Soweit Sie uns eine Einwilligung in die Verarbeitung Ihrer Daten erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der Verarbeitung Ihrer Daten bis zum Widerruf bleibt hiervon unberührt.
+Für die Geltendmachung Ihrer Rechte oder bei sonstigen datenschutzrechtlichen Anliegen können Sie uns jederzeit über die in Ziffer 1 oben genannten und/oder die in unserem Impressum aufgeführten Kontaktwege kontaktieren.
+
+###3. Ergänzender Hinweis zu Ihrem Widerspruchsrecht
+Wir weisen Sie ergänzend darauf hin, dass soweit eine Verarbeitung Ihrer personenbezogenen Daten auf Basis des berechtigten Interesses im Rahmen der Interessenabwägung gemäß Art. 6 Abs.1 Satz 1 f) DSGVO erfolgt, Sie jederzeit das Recht haben, Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen. Für die Erklärung Ihres Widerspruchs können Sie uns jederzeit über die in Ziffer 1 oben genannten und/oder die in unserem Impressum aufgeführten Kontaktwege kontaktieren.
+
+###4. Zwecke und Rechtsgrundlagen der Datenverarbeitung
+**a. Verwendung der Web-App**
+Bei einem Aufruf der Web-App werden die folgenden Daten (Metadaten) automatisch an den Webserver von Data4Life übertragen:
+- IP-Adresse des beim Abruf verwendeten Geräts
+- Webadresse (URL) der Seite, von der aus die Datei angefordert wurde (Referrer)
+- Datum und Uhrzeit der Anforderung
+- Übertragene Datenmenge
+- Beschreibung des Typs des verwendeten Browsers
+
+Die Verarbeitung dieser Browserdaten, die über die IP-Adresse einen (pseudonymisierten) Personenbezug aufweisen, ist technisch erforderlich und erfolgt um Ihnen das Angebot von Data4Life bereitstellen zu können. Rechtsgrundlage für die vorbeschriebene Verarbeitung ist Art. 6 Abs. 1 Satz 1 b. DSGVO (Verarbeitung ist für die Erfüllung eines Vertrages mit dem Betroffenen erforderlich). Die oben genannten Daten werden nach der Verwendung der App maximal sieben Tage gespeichert.
+
+**b. Registrierung für das Angebot von Data4Life über die Web-App**
+Sie können sich über unsere Web-App für das Angebot von Data4Life registrieren. 
+Für die Registrierung ist lediglich die Angabe Ihrer E-Mail-Adresse, ein von Ihnen gewähltes Passwort, sowie Ihre Mobiltelefonnummer für die Zwei-Faktor-Authentisierung erforderlich. Sollten Sie Ihr Passwort vergessen haben, nutzen Sie bitte den bei Abschluss der Registrierung angezeigten persönlichen Wiederherstellungsschlüssel, um wieder Zugriff auf Ihr Benutzerkonto zu erhalten. Beachten Sie, dass die Benutzung des Wiederherstellungsschlüssel die einzige Möglichkeit ist Ihr Passwort zurückzusetzen. 
+
+Für die Registrierung verwenden wir das sog. Double-Opt-in-Verfahren. Das heißt, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die von Ihnen angegebene E-Mail-Adresse senden, in welcher wir Sie um Bestätigung Ihrer Anmeldung bitten. 
+Rechtsgrundlage für die vorbeschriebene Verarbeitung ist Art. 6 Abs. 1 Satz 1 b. DSGVO (Verarbeitung ist für die Erfüllung eines Vertrages mit dem Betroffenen erforderlich).
+Nach erfolgter Registrierung über unsere Web-App können Sie auf das Angebot von Data4Life mit Ihren Zugangsdaten zugreifen und die Funktionalitäten nutzen.
+
+**c. Nutzung der Funktionalitäten und Speicherung Ihrer Gesundheitsdaten**
+Als registrierter Benutzer können Sie in dem Angebot von Data4Life Sie betreffende Daten und Dokumente (zum Beispiel Arztbriefe oder Befunde) sicher und verschlüsselt hochladen und speichern. Ferner können Sie einmal hochgeladene Daten/Dokumente jederzeit herunterladen, ansehen, bearbeiten und auch wieder löschen. Zur Gewährleistung der Sicherheit der Speicherung der von Ihnen hochgeladenen Daten und Dokumente in dem Angebot von Data4Life siehe bitte die Informationen unten in Ziffer 5. 
+Wenn Sie das Angebot von Data4Life über unsere mobile App nutzen, können Sie Dokumente auch durch Nutzung der in Ihrem mobilen Endgerät integrierten Kamera verschlüsselt hochladen. Dafür müssen Sie dem Zugriff auf Ihre Kamera in der App gesondert zustimmen. Wenn Sie den Zugriff nicht erlauben möchten, können Sie Dokumente alternativ über die Web-App hochladen. 
+
+Rechtsgrundlage für die beschriebenen Verarbeitungen Ihrer in dem Angebot von Data4Life gespeicherten Daten, einschließlich Gesundheitsdaten, ist die von Ihnen erteilte Einwilligung im Rahmen der Registrierung (Art. 6 Abs. 1 Satz 1 a. in Verbindung mit Art. 9 Abs. 2 a. DSGVO). Bitte beachten Sie, dass Sie Ihre einmal erteilte Einwilligung jederzeit widerrufen können. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Speicherung bleibt von Ihrem Widerruf unberührt. Ihren Widerruf können Sie zum Beispiel durch Löschung Ihres Profils in der Web-App erklären. Sie können natürlich auch jederzeit über die zur Verfügung gestellten Funktionalitäten einzelne oder alle gespeicherten Daten/Dokumente aus dem Angebot von Data4Life entfernen und Ihr Benutzerkonto behalten.
+
+**d. Erstellung eines persönlichen Gesundheitsprofils/einer medizinischen Vorgeschichte**
+Sie können im Rahmen der Nutzung des Angebots von Data4Life ein persönliches Gesundheitsprofil erstellen, in dem Sie einen von Data4Life zur Verfügung gestellten Fragebogen ausfüllen. In diesem Zusammenhang verarbeiten wir die von Ihnen angegebenen Daten, einschließlich Gesundheitsdaten, zum Zwecke der Speicherung Ihres persönlichen Gesundheitsprofils. Das Anlegen eines Gesundheitsprofils bzw. das Beantworten des Fragebogens ist freiwillig. In Ziffer 5 finden Sie Informationen zur Gewährleistung der Sicherheit Ihres persönlichen Gesundheitsprofils in dem Angebot von Data4Life.
+Rechtsgrundlage für die vorbeschriebene Verarbeitung Ihrer in dem Angebot von Data4Life gespeicherten Daten einschließlich Gesundheitsdaten ist die von Ihnen erteilte Einwilligung im Rahmen der Registrierung (Art. 6 Abs. 1 Satz 1 a. in Verbindung mit Art. 9 Abs. 2 a. DSGVO). Bitte beachten Sie, dass Sie Ihre einmal erteilte Einwilligung jederzeit widerrufen können. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Speicherung bleibt von Ihrem Widerruf unberührt. Ihren Widerruf können Sie zum Beispiel durch Löschung Ihres persönlichen Gesundheitsprofils in der Web-App erklären.
+
+**e. Übermittlung von Benutzerfeedback**
+Sie haben in Ihrem Benutzerkonto die Möglichkeit, Feedback zur Verbesserung der Data4Life-App abzugeben. Ihre Vorschläge, Feedback und Fehlerberichte nutzen wir intern zur Optimierung unserer App und zur Fehlerbehebung. Sie haben die Möglichkeit, Ihr Feedback anonym oder zusammen mit Ihren Kontaktdaten (Name und E-Mail-Adresse) zu senden. In letzterem Fall willigen Sie ein, dass wir Sie bei Rückfragen kontaktieren oder Sie bei Fortschritten zu den von Ihnen im Feedback genannten Punkten informieren dürfen.  Die Rechtsgrundlage dieser Verarbeitung ist Art. 6 Abs. 1 Satz 1 lit. a DSGVO (Verarbeitung auf der Grundlage der Einwilligung der betroffenen Person).
+Sie können Ihre Einwilligung jederzeit per E-Mail an den Data4Life-Kundenservice unter we@data4life.care mit Wirkung für die Zukunft widerrufen. 
+
+**f. Nutzung des Symptom-Tagebuchs**
+Als registrierter Benutzer des Angebots von Data4Life können Sie auch die Symptom-Tagebuch-Funktionalitäten nutzen, die wir im Zusammenhang mit der COVID-19-Pandemie entwickelt haben. Die Symptom-Tagebuch-Funktionalität ermöglicht es Ihnen, lokal auf Ihrem Gerät gespeicherte Daten aus dem CovApp-Fragebogen in das Angebot von Data4Life zu importieren und weitere Angaben zu machen, die im Zusammenhang mit COVID-19 von Relevanz sein können (zum Beispiel Ihr Geschlecht, Ihr Geburtsjahr, Ihre Wohnsituation), um mögliche COVID-19-Symptome in dem Angebot von Data4Life sicher verfolgen zu können und ein persönliches Tagebuch über Ihre Symptome zu führen. Damit können Sie mögliche Veränderungen Ihrer COVID-19-Symptome verfolgen und erfassen, indem Sie die Daten in dem Symptom-Tagebuch regelmäßig aktualisieren und speichern. 
+Der oben erwähnte CovApp-Fragebogen ist eine webbasierte Anwendung, die von der Charité und Data4Life entwickelt wurde und über https://covapp.charite.de aufgerufen werden kann. Bitte beachten Sie, dass Ihre Antworten aus dem CovApp-Fragebogen, die Sie wie oben aufgeführt in das Angebot von Data4Life importieren können, ausschließlich lokal im Webbbrowser auf Ihrem Gerät gespeichert werden, nicht auf Servern der Charité oder Data4Life. Bevor Sie die lokal in Ihrem Webbrowser auf Ihrem Gerät gespeicherten Antworten aus dem Fragebogen in das Angebot von Data4Life importieren, um die Symptom-Tagebuch-Funktionalitäten des Angebots von Data4Life nutzen zu können, bitten wir Sie vorher um Ihre ausdrückliche Zustimmung.
+Weitere Informationen darüber, wie wir die Sicherheit Ihrer Daten bei der Verwendung der Symptom-Tagebuch-Funktionalitäten in dem Angebot von Data4Life gewährleisten, finden Sie in Abschnitt 5.
+
+Rechtsgrundlage für die vorbeschriebene Verarbeitung Ihrer in dem Angebot der Data4Life gespeicherten Daten im Zusammenhang mit Ihrer Nutzung der Symptom-Tagebuch-Funktionalitäten, einschließlich der Speicherung Ihrer Gesundheitsdaten, ist die von Ihnen im Rahmen des Registrierungsprozesses erteilte Einwilligung (Art. 6 Abs. 1 Satz 1 a. in Verbindung mit Art. 9 Abs. 2 a. DSGVO). Bitte beachten Sie, dass Sie Ihre einmal erteilte Einwilligung jederzeit widerrufen können. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Speicherung bleibt von Ihrem Widerruf unberührt. Ihren Widerruf können Sie dadurch erklären, dass Sie Ihr Benutzerkonto und somit die Daten in Ihrem Symptom-Tagebuch in der Web-App löschen.
+
+**g. Nutzung der Funktionalität zur digitalen Übermittlung von Testergebnissen**
+Als registrierter Nutzer des Angebots von Data4Life können Sie die Funktionalität zur digitalen Übermittlung von Testergebnissen von teilnehmenden Teststellen nutzen. Das Angebot von Data4Life ermöglicht es Ihnen, eine eindeutige Testauftragsnummer zu generieren (ein Pseudonym, das Sie als Person identifiziert), mit der Ihr Laborergebnis direkt an Data4Life übermittelt werden kann. Alles was Sie tun müssen ist, die Testauftragsnummer dem Testpersonal in der jeweiligen Teststelle verbal mitzuteilen oder via QR-Code oder Barcode scannen zu lassen. Das Ergebnis des Tests wird dann in Ihrem Data4Life-Konto angezeigt,  sobald es verfügbar ist. Sie erhalten eine Benachrichtigungs-E-Mail, falls Sie uns die entsprechende Einwilligung erteilt haben. Die Testauftragsnummer ermöglicht es dem Arzt, Krankenhaus oder Labor, das Ergebnis direkt an Data4Life digital zu übermitteln. 
+Ihre Testauftragsnummer und ihre Laborergebnisse werden ausschließlich ende-zu-ende-verschlüsselt an Data4Life übermittelt und gespeichert. Das heißt, nur Sie haben Zugriff auf Ihre Testauftragsnummer und ihre Testergebnisse. 
+
+Rechtsgrundlage für die vorbeschriebene Verarbeitung Ihrer in dem Angebot der Data4Life gespeicherten Daten im Zusammenhang mit der Übermittlung der Testergebnisse von der Teststelle, das Versenden von Benachrichtigungs-E-Mails, und die Speicherung Ihrer Gesundheitsdaten, ist Ihre spezifische Einwilligung in die Übermittlung der Testergebnisse von der jeweiligen Teststelle an Data4Life, Ihre Einwilligung zum Erhalt von Benachrichtigungs-E-Mails und die von Ihnen im Rahmen des Registrierungsprozesses erteilte Einwilligung (Art. 6 Abs. 1 Satz 1 a. in Verbindung mit Art. 9 Abs. 2 a. DSGVO). Bitte beachten Sie, dass Sie Ihre einmal erteilte Einwilligung jederzeit widerrufen können. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Speicherung bleibt von Ihrem Widerruf unberührt. Ihren Widerruf können Sie dadurch erklären, dass Sie Ihr Benutzerkonto und somit die Daten im Zusammenhang mit den digitalen übermittelten Testergebnissen in der Web-App löschen.
+
+**h. Fragebogen und QR-Code-Erstellung**
+Als registrierter Nutzer des Angebots von Data4Life können Sie die Funktionalität zur digitalen Beantwortung von Fragebögen und der Generierung eines QR-Codes aus Ihren Antworten nutzen. Dieser QR-Code hilft Ihnen bei der Aufnahme in einem Testcenter oder Krankenhaus Ihre Antworten schnell und einfach zu übermitteln. Sie müssen lediglich den QR-Code einem Mitarbeiter zeigen, so dass dieser den QR-Code in das System scannen kann. Bitte beachten Sie, dass Sie Ihre Antworten zum Fragebogen offenbaren, und damit personenbezogene Gesundheitsdaten, wenn Sie jemanden erlauben den QR-Code zu scannen. 
+Ihre Antworten sind in Ihrem Data4Life-Benutzerkonto verfügbar und werden von Data4lIfe immer Ende-zu-ende verschlüsselt gespeichert. 
+
+Rechtsgrundlage für die vorbeschriebene Verarbeitung Ihrer in dem Angebot der Data4Life gespeicherten Daten ist die von Ihnen im Rahmen des Registrierungsprozesses erteilte Einwilligung (Art. 9 Abs. 2 a. DSGVO). Bitte beachten Sie, dass Sie Ihre einmal erteilte Einwilligung jederzeit widerrufen können. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Speicherung bleibt von Ihrem Widerruf unberührt. Ihren Widerruf können Sie dadurch erklären, dass Sie Ihr Benutzerkonto und somit die Daten im Zusammenhang mit dem Fragebogen und der QR-Code-Erstellung in der Web-App löschen.
+
+**i. Gesundheitsbibliothek**
+Als registrierter Nutzer des Angebots von Data4Life können Sie die Funktionalitäten der Gesundheitsbibliothek nutzen, um sich über eine Vielzahl an verschiedenen Themen zu informieren, zum Beispiel aktuelle Gesundheitsthemen, neue Data4Life-Produkte, wissenschaftliche Erkenntnisse.
+
+Im Rahmen folgender Nutzung der Funktionalitäten der Gesundheitsbibliothek werden keine weiteren personenbezogenen Daten von Ihnen benötigt bzw. verarbeitet:
+- Betrachten von Inhalten der Gesundheitsbibliothek
+- Bewerten von Inhalten (lachender/trauriger Smiley)
+- Benachrichtigung per E-Mail (falls Sie unseren Newsletter abonniert haben) über neue Inhalte
+- Anzeigen von generell interessanten Inhalten auf Basis der Bewertungen der Inhalte durch andere Nutzer
+
+Wir weisen Sie darauf hin, dass die Bewertung von Inhalten nach den Kriterien lachender/trauriger Smiley für die Autoren der Inhalte sichtbar sind, allerdings ausschließlich in anonymisierter Form. Die Autoren können also nicht sehen, welcher Nutzer die Inhalte wie bewertet hat.
+
+**j. Anmeldung zum E-Mail-Newsletter**
+Wenn Sie darin eingewilligt haben, können Sie unseren E-Mail-Newsletter abonnieren, in dem wir Sie regelmäßig über Data4Life, seine Partner und Entwicklungen im Bereich Gesundheit informieren. Um als registrierter Nutzer des Data4Life-Angebots den Newsletter zu abonnieren, müssen Sie nur auf die Schaltfläche im entsprechenden Newsletter-Anmeldebildschirm klicken oder die Newsletter-Checkbox in Ihren Profileinstellungen aktivieren. Wir verarbeiten dann die E-Mail-Adresse, die Sie bei Ihrer Registrierung bestätigt haben, um Sie für den Newsletter zu abonnieren und Ihnen den Newsletter zuzusenden. 
+
+Die rechtliche Grundlage für die oben beschriebene Verarbeitung zum Zwecke der Zusendung unseres E-Mail-Newsletters ist Art. 6 Abs. 1 Satz 1. lit. a DSGVO (Verarbeitung auf der Grundlage der Einwilligung der betroffenen Person). 
+
+Sie können Ihre Einwilligung jederzeit widerrufen und den Newsletter abbestellen. Nach dem Widerruf Ihrer Einwilligung erhalten Sie von uns keine Newsletter mehr. Um Ihre Einwilligung zu widerrufen, können Sie zum Beispiel den in jedem Newsletter enthaltenen Abmelde-Link anklicken oder eine E-Mail an unsubscribe@data4life.care oder über die in unserem Impressum angegebenen Kontaktmöglichkeiten an uns senden. 
+
+**k. Kontaktaufnahme zur Nutzerforschung**
+Sie können in Data4Life-Apps eine Einwilligung erteilen, welche es Data4Life erlaubt, bestimmte Nutzungsinformationen (Details siehe unten) zu erheben und Sie per E-Mail zu fragen, ob Sie an der Teilnahme an Interviews und weiteren Nutzerforschungsmaßnahmen interessiert sind. Wir möchten direktes Feedback unserer Nutzerinnen und Nutzer durch Interviews und Umfragen erhalten. Dabei interessieren uns insbesondere aktive Nutzer, deren Wünsche und Kritik wir aufnehmen möchten. Ihr Feedback wird dazu genutzt, Fehler zu beheben und unsere Apps zu verbessern. Daher ermitteln wir Daten, welche Ihre Aktivität auf der Applikation darlegen. Dafür sammeln wir folgende Daten:
+- Anzahl Ihrer Anmeldungen in Apps von Data4Life 
+- Anzahl der abgesendeten Fragebögen in unseren Apps 
+
+Auf Basis dieser Daten sendet Data4Life Interview- und Feedbackangebote an Sie per E-Mail. Die Rechtsgrundlage dieser Verarbeitung ist Art. 6 Abs. 1 Satz 1 lit. a DSGVO (Verarbeitung auf der Grundlage der Einwilligung der betroffenen Person). Beachten sie, dass wenn Sie sich entscheiden, an einem Interview teilzunehmen, Data4Life Sie nach einer weiteren Einwilligung fragen wird, um die Nutzerforschung durchführen zu können.
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft im Bereich “Einwilligung verwalten” Ihres Nutzerkontos widerrufen. 
+
+**l. Support/Kontaktaufnahme**
+Bei Ihrer Kontaktaufnahme mit uns über die auf unserer Website zur Verfügung gestellten Wege, wie zum Beispiel E-Mail, Post oder Telefon werden die von Ihnen mitgeteilten Daten (zum Beispiel Ihre E-Mail-Adresse und Ihr Name sowie der Inhalt Ihrer Anfrage) von uns gespeichert, um Ihre Fragen bzw. Ihr Anliegen zu bearbeiten und zu beantworten bzw. den von Ihnen gewünschten Support bei der Nutzung des Angebots von Data4Life zu erbringen. 
+Die Rechtsgrundlage für die Erhebung der Daten im Rahmen von Kontaktaufnahmen und Support-Anfragen ist Art. 6 Abs. 1 Satz 1 lit. b DSGVO (Verarbeitung ist für die Erfüllung eines Vertrages mit dem Betroffenen erforderlich), wenn eine vertragliche Beziehung angestrebt wird oder eine solche bereits besteht. Die rechtliche Grundlage ist Art. 6 Abs. 1 Satz 1 lit. f DSGVO (die Verarbeitung ist notwendig zur Wahrung der berechtigten Interessen des Verantwortlichen der jeweiligen Datenerhebung), wenn Vertragsverhältnis besteht oder beabsichtigt ist, zum Beispiel, wenn der Kontakt allgemeiner Natur ist. In letzterem Fall besteht unser berechtigtes Interesse darin, Ihre Anfrage in einer angemessenen Weise zu beantworten. 
+
+Die in diesem Zusammenhang anfallenden Daten anonymisieren wir, nachdem die Speicherung nicht mehr erforderlich ist (in der Regel vier Wochen nach vollständiger Erledigung Ihres Anliegens), oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage für die vorbeschriebene Verarbeitung ist Art. 6 Abs. 1 Satz 1 lit. f DSGVO (Verarbeitung ist erforderlich zur Wahrung berechtigter Interessen des Verantwortlichen). Data4Life hat ein berechtigtes Interesse daran, Kennziffern im Rahmen eines Qualitätsmanagements zur kontinuierlichen Verbesserung von angebotenen Dienstleistungen durchzuführen. Dafür werten wir systematisch die Anzahl und Gründe der Kontaktaufnahmen, die Bearbeitungsdauer von Anfragen und weitere Kennziffern aus. 
+
+###5. Verschlüsselte Speicherung Ihrer Daten in dem Angebot von Data4Life, Speicherung in Deutschland
+Die von Ihnen in das Angebot von Data4Life hochgeladenen Daten werden mit Ende-zu-Ende-Verschlüsselung gespeichert, sodass wir zu keiner Zeit Kenntnis von den Inhalten der hochgeladenen Daten nehmen bzw. hierauf zugreifen können. Nur Sie haben Zugang zu den von Ihnen hochgeladenen Daten. Ihre Daten werden von uns auch nicht an Dritte übermittelt bzw. Dritten zur Verfügung gestellt. Die in dem Angebot von Data4Life gespeicherten Daten werden ausschließlich innerhalb Deutschlands in zertifizierten Data4Life-Rechenzentren gespeichert.
+
+###6. Empfänger oder Kategorien von Empfängern
+Für den Versand der SMS zur Zwei-Faktor-Authentifizierung im Rahmen Ihrer Registrierung für das Angebot von Data4Life (siehe Ziffer 4 b oben) wird Ihre Telefonnummer gegenüber Sinch Sweden AB, Lindhagensgatan 74, 112 18 Stockholm, Sweden offengelegt welche uns als Auftragsverarbeiter unterstützen. Wir haben mit Sinch eine Vereinbarung nach Art. 28 Abs. 3 DSGVO sowie die EU Standardvertragsklauseln abgeschlossen. 
+
+Für den Versand von E-Mails, zum Beispiel bei Ihrer Registrierung für das Angebot von Data4Life (siehe Ziffer 4 b oben) oder zum Versand unseres E-Mail-Newsletters (siehe Ziffer 4 h oben) wird Ihre E-Mail-Adresse gegenüber Mailjet SAS, 13-13 bis, rue de l’Aubrac – 75012 Paris, Frankreich offengelegt, welche uns als Auftragsverarbeiter unterstützen. Wir haben mit Mailjet SAS eine Vereinbarung nach Art. 28 Abs. 3 DSGVO abgeschlossen.  
+
+Als Teil der Funktionalität zur digitalen Übermittlung von Testergebnissen (siehe Ziffer 4 d. oben) wird die Testauftragsnummer gegenüber dem Testpersonal bei der jeweiligen Teststelle von Ihnen selbst offengelegt. Davon abgesehen erfolgt keine Offenlegung von personenbezogener Daten. Für den Betrieb und die Weiterentwicklung des Dienstes zur Erstellung einer Testauftragsnummer unterstützt uns die Healthmetrix GmbH, Auguste-Viktoria-Str. 32, 14193 Berlin als Auftragsverarbeiter. Wir haben mit Healthmetrix eine Vereinbarung nach Art. 28 Abs. 3 DSGVO abgeschlossen. 
+
+In den oben genannten Fällen bleibt D4L data4life gGmbH für die Datenverarbeitung verantwortlich.
+
+###7. Pflicht zur Bereitstellung von personenbezogenen Daten
+Wenn Sie die Website von Data4Life aufrufen oder die Web-App nutzen, müssen Sie ihre IP-Adresse bereitstellen. Dies ist technisch notwendig, und geschieht automatisch im Hintergrund durch Ihren Browser für die Datenübertragung zwischen Ihrem Endgerät (Notebook, Tablet, Smartphone) und den Servern von Data4Life. Wenn Sie uns die IP-Adresse nicht bereitstellen, ist es uns technisch nicht möglich Ihnen das Angebot von Data4Life zur Verfügung zu stellen. 
+
+Wenn Sie sich für das Angebot von Data4Life registrieren oder uns zum Beispiel über die im Impressum aufgeführten Kontaktwege kontaktieren wollen, müssen Sie diejenigen personenbezogenen Daten bereitstellen, die für die Registrierung und/oder zur Bearbeitung und Beantwortung Ihrer Anfrage erforderlich sind. Wenn Sie uns diese Daten nicht bereitstellen, ist es uns nicht möglich, das gewünschte Benutzerkonto anzulegen oder Ihr Anliegen/Ihre Anfrage zu bearbeiten und zu beantworten.
+
+###8. Nicht-Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling
+Wir weisen Sie darauf hin, dass Sie im Rahmen der Nutzung des Angebots von Data4Life und der Inanspruchnahme der Data4Life-Funktionalitäten keiner ausschließlich auf einer automatisierten Verarbeitung – einschließlich Profiling – beruhenden Entscheidung unterworfen werden, die Ihnen gegenüber rechtliche Wirkung entfaltet oder Sie in ähnlicher Weise erheblich beeinträchtigt.
+
+###9. Speicherdauer und Löschung von Daten
+Auch ohne eine besondere Aufforderung kommen wir selbstverständlich unseren Verpflichtungen zum Löschen personenbezogener Daten (zum Beispiel gemäß Art. 17 DSGVO) nach und speichern Daten daher nur so lange, wie es für die Erbringung der gewünschten Leistung bzw. der jeweiligen Zweckbestimmung erforderlich ist.
+Die im Zusammenhang mit Ihrem Benutzerkonto stehenden Daten speichern wir so lange, wie Sie über ein Benutzerkonto für das Angebot von Data4Life verfügen. Ihr Benutzerkonto wird von uns gelöscht, sobald die Speicherung nicht mehr erforderlich ist, zum Beispiel nachdem Sie das Nutzungsverhältnis mit uns beendet haben oder Ihr Benutzerkonto gelöscht haben. 
+
+###10. Logdateien/Von Ihrem Browser übermittelte Informationen
+Falls Sie https://app.data4life.care lediglich für Informationszwecke verwenden, also wenn Sie sich nicht für das Angebot von Data4Life registrieren oder uns über die im Impressum genannten Kontaktwege kontaktieren, erheben wir nur die Daten, die Ihr Browser an unseren Server übermittelt. 
+Dabei handelt es sich um die folgenden Daten, die erforderlich sind, um Ihnen https://app.data4life.care anzuzeigen und die Stabilität und Sicherheit zu gewährleisten: IP-Adresse, Datum und Uhrzeit der Anfrage, Inhalt der Anforderung (konkrete Seite), Zugriffsstatus/HTTP-Statuscode, jeweils übertragene Datenmenge, Website, von der die Anforderung kommt, Browser, Betriebssystem und dessen Oberfläche, Sprache und Version der Browsersoftware. Ein Rückschluss auf einzelne Personen ist uns anhand dieser Daten nicht möglich.
+Diese Daten werden von uns aus Gründen der technischen Sicherheit, zum Beispiel zur Abwehr von Angriffen auf unseren Webserver, gespeichert, wobei nach spätestens sieben Tagen die Daten durch Verkürzung der IP-Adresse auf Domainebene anonymisiert werden, sodass es nicht mehr möglich ist, einen Bezug zum einzelnen Benutzer herzustellen. Rechtsgrundlage für die vorbeschriebene Verarbeitung ist Art. 6 Abs. 1 Satz 1 lit. f DSGVO (Verarbeitung ist erforderlich zur Wahrung berechtigter Interessen des Verantwortlichen).
+
+###11. Einsatz von Cookies/Nutzungsanalyse/Fehlerberichte
+Bei Ihrer Nutzung des Angebots von Data4Life über unsere Web-App werden Cookies auf Ihrem Endgerät gespeichert. 
+
+**a) Cookies zur Wiedererkennung**
+Wir setzen Cookies zu dem Zweck ein, um Sie nach Ihrem ersten Besuch der Web-App wiederzuerkennen, damit Sie beim nächsten Besuch direkt auf die Login-Seite gelangen. Wir weisen Sie darauf hin, dass die von uns verwendeten Cookies zur Wiedererkennung des Benutzers ein Pseudonym verwenden, dass ausschliesslich für die Wiedererkennung genutzt wird. Die verwendeten Cookies enthalten keine weiteren personenbezogenen Daten insbesondere keine Gesundheitsdaten. Wir haben ein berechtigtes Interesse daran, unsere Dienste und Funktionalitäten für unsere Benutzer so benutzerfreundlich wie möglich zu gestalten, was durch die Funktionsweise des Cookies zur Wiedererkennung erreicht werden kann. 
+
+Rechtsgrundlage ist unser berechtigtes Interesse (Art. 6 Abs. 1 Satz 1 lit. f DSGVO). 
+
+**b) Einsatz von Matomo zu Analysezwecken**
+Mit Ihrer Einwilligung setzen wir zu Analysezwecken die Technologie des Anbieters Matomo in unserer Web-App ein. Matomo verwendet Cookies, die die Wiedererkennung Ihres Browsers und eine Analyse Ihrer Nutzung unserer Web-App sowie Ihrer Interaktion mit unserem Dienst ermöglichen, zum Beispiel welche Teile/Funktionalitäten Sie ansehen und nutzen. 
+Zu diesem Zweck werden keine personenbezogenen Daten von Ihnen verarbeitet; die IP-Adresse jedes Nutzers wird unmittelbar nach der Verarbeitung und vor deren Speicherung anonymisiert. Die mit der Matomo-Technologie erfassten Daten werden ausschließlich auf Servern in Deutschland von Data4Life verarbeitet. Die aufgeführte Verfolgung und Analyse Ihrer Nutzung unserer Produkte hilft uns, unsere Produkte kontinuierlich zu optimieren und Ihr Erlebnis bei der Nutzung unserer Web-App zu verbessern. 
+
+Rechtsgrundlage für den Einsatz von Matomo ist Ihre Einwilligung (Art. 6 Abs. 1 Satz 1 lit. a DSGVO). Sie können Ihre einmal erteilte Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen.
+
+**c) Einsatz von Sentry zur Fehlerbehebung**
+Um die Quelle und Ursache potenzieller Fehler und Abstürze unserer Dienste zu verstehen und um die notwendigen Erkenntnisse zur Reproduktion und Behebung solcher Abstürze zu gewinnen und unseren Nutzern das bestmögliche Erlebnis bei der Nutzung unserer Dienste zu bieten, setzen wir mit Ihrer Einwilligung die Technologie des Anbieters Sentry ein, der uns eine Echtzeit-Fehlerverfolgung ermöglicht.In diesem Zusammenhang und wenn Sie einen Fehler oder Absturz in unserer Web-App feststellen, werden Benutzerdaten wie Informationen über das von Ihnen verwendete Gerät sowie der Zeitpunkt des Fehlers bzw. Absturzes ausschließlich zum Zwecke der Kenntnisnahme des jeweiligen Fehlers bzw. Absturzes und der Behebung solcher Abstürze, nicht aber zu anderen Zwecken erhoben und analysiert und anschließend gelöscht, sobald der Fehler bzw. Absturz behoben ist. Die mit der Sentry-Technologie erfassten Daten werden ausschließlich auf Servern in Deutschland von Data4Life verarbeitet.
+
+Rechtsgrundlage für den Einsatz von Sentry ist Ihre Einwilligung (Art. 6 Abs. 1 Satz 1 lit. a DSGVO). Sie können Ihre einmal erteilte Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen.
+
+**d) Widerrufen der Einwilligung für Nutzungsanalyse und Fehlerberichte**
+Sie können Ihre Einwilligung in die Verwendung von Matomo und Sentry jederzeit mit Wirkung für die Zukunft widerrufen. Um Nutzungsanalyse und Fehlerberichte abzulehnen, klicken Sie den Button. 
+
+(setting: localStorage key: accepted_tracking,accepted_cookies,settings::acceptsCookies,settings::acceptsTracking,consent::acceptsCookies,consent::acceptsTracking activate: -- deactivate: Einwilligung widerrufen und Cookies ablehnen dnt: DNT disabled: Cookie-Einwilligung ist nicht erteilt disableonly: true)
+
+**Hinweis:** Das Klicken des Buttons löscht nicht Cookies, die bereits vorher gespeichert wurden. Sie können existierende Cookies jederzeit in den Einstellungen Ihres Browsers löschen.
+
+****
+
+###Datenschutzerklärung für nicht beim Betroffenen erhobene Daten (Bereitstellung von an die Öffentlichkeit gerichteten Informationen gemäß Art 14 Abs. 5 lit. b Satz 2 DSGVO)
+
+Wir weisen die Öffentlichkeit darauf hin, dass registrierte Nutzer der Data4Life-Plattform im Rahmen der Nutzung der Funktionalitäten der Web-App in verschlüsselter Form Daten speichern können, die sich auf Dritte beziehen. Aufgrund der mit Ende-zu-Ende-Verschlüsselung gespeicherten Daten innerhalb unserer Plattform können wir die Daten Dritter zu keinem Zeitpunkt einer natürlichen Person zuordnen. Die Erteilung der Informationen gemäß Art. 14 Abs. 1 – 4 Europäischen Datenschutz-Grundverordnung (DSGVO)  für Daten, die nicht beim Betroffenen direkt erhoben wurden, ist daher unmöglich gemäß Art. 14 Abs. 5 lit b. Satz 1 DSGVO. Zur Erfüllung unserer Pflichten stellen wir daher die nachfolgenden Informationen für die Öffentlichkeit bereit. 
+
+###1. Verantwortlicher und Datenschutzbeauftragter
+
+Verantwortlicher gem. Art. 4 Abs. 7 DSGVO für die Web-App ist: 
+
+D4L data4life gGmbH
+Charlottenstraße 109
+14467 Potsdam
+Deutschland
+E-Mail: we@data4life.care
+Unseren Datenschutzbeauftragten erreichen Sie unter datenschutz@data4life.care oder unserer Postadresse mit dem Zusatz „der Datenschutzbeauftragte“.
+
+###2. Verarbeitungszwecke und Rechtsgrundlagen, Quelle der Daten, Schutz Ihrer berechtigten Interessen
+
+Nutzer der Data4Life-Plattform können über unsere Web-App im Rahmen der den Nutzern zur Verfügung gestellten Funktionalitäten optional Daten angeben, die Dritte betreffen. Das bezieht sich z.B. auf folgende Daten von Dritten:
+
+Angaben zu einer Kontaktperson: Nutzer der Data4Life-Plattform können ein mit Ende-zu-Ende-Verschlüsselung gespeichertes, persönliches Gesundheitsprofil anlegen, welches der Nutzer z.B. mit seinen Ärzten oder Krankenhäusern teilen kann. Im Rahmen des persönlichen Gesundheitsprofils kann der Nutzer dort optional Details (z.B. Namen, Telefonnummer) einer Kontaktperson eintragen, die z.B. im Falle eines medizinischen Notfalls des Nutzers, kontaktiert werden soll. 
+
+Angaben zu genannten Personen in medizinischen Dokumenten: Nutzer der Data4Life-Plattform haben die Möglichkeit, sie betreffende medizinische Dokumente (z.B. Befunde, Arztberichte) sicher und mit Ende-zu-Ende-Verschlüsselung  in der Web-App zu speichern, zu verwalten und diese z.B. mit behandelnden Ärzten/Krankenhäusern zu teilen, um dem Nutzer eine effizientere Behandlung und Gesundheitsversorgung zu ermöglichen. In diesem Zusammenhang kann der Nutzer Details des behandelnden Arztes, z.B. Namen, Fachrichtung, bei der Ablage in der Web-App hinterlegen, um dem Nutzer eine einfachere Verwaltung seiner medizinischen Dokumente zu ermöglichen. Medizinischen Dokumente des Nutzers selbst können personenbezogene Daten von Dritten enthalten, z.B. Namen, Anschriften und Fachrichtungen der behandelnden Ärzte. 
+
+Rechtsgrundlage für die Verarbeitung der vorgenannten Daten ist das berechtigte Interesse unseres Nutzers der Web-App gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO daran, ihn betreffende Informationen möglichst einfach, effizient und sicher archivieren, speichern und teilen zu können.
+
+Den Schutz der Rechte und Freiheiten und der berechtigten Interessen des betroffenen Dritten stellen wir durch unsere Ende-zu-Ende-Verschlüsselung sicher, die dazu führt, dass wir zu keiner Zeit Kenntnis über Ihre Person erlangen bzw. auf Daten zugreifen können, die unser Nutzer bei uns speichert. 
+
+###3. Empfänger, Kategorien von Empfängern
+Wir geben Ihre Daten nicht an Dritte weiter. Lediglich der Data4Life-Nutzer selbst kann in die Data4Life-Plattform hochgeladene/gespeicherte und von ihm ausgewählte Daten/Dokumente und sein Gesundheitsprofil mit anderen, z.B. seinem Arzt/seinen Ärzten teilen, sofern er das wünscht. 
+
+###4. Speicherdauer und Löschung von Daten
+Wir selbst haben keinen Einfluss darauf, wie lange Daten und Dokumente von Nutzern in der Data4Life-Plattform gespeichert werden, da dies alleine vom Nutzer und seiner Nutzung der Data4Life-Funktionalitäten in der Web-App abhängt. Grundsätzlich bleiben die Daten aber so lange gespeichert, wie der Data4Life-Benutzer über ein Benutzerkonto verfügt bzw. solange, wie ein registrierter Nutzer seine hochgeladenen Dokumente bzw. sein Gesundheitsprofil bei Data4Life nicht selbst löscht bzw. editiert.
+
+###5. Ihre Rechte
+Als Betroffener haben Sie uns gegenüber gemäß den Vorgaben der DSGVO grundsätzlich folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten: 
+- Recht auf Auskunft (Art. 15 DSGVO), 
+- Recht auf Berichtigung (Art. 16 DSGVO), 
+- Recht auf Löschung (Art. 17 DSGVO), 
+- Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO), 
+- Recht auf Widerspruch gegen die Verarbeitung (Art. 21 DSGVO), 
+- Recht auf Datenübertragbarkeit (Art. 20 DSGVO). 
+
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Die für uns zuständige Aufsichtsbehörde ist: 
+
+Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht
+Stahnsdorfer Damm 77
+14532 Kleinmachnow
+Deutschland
+
+Telefon: 033203/356-0
+Telefax: 033203/356-49
+E-Mail: Poststelle@LDA.Brandenburg.de
+
+Bitte beachten Sie aber, dass es uns aufgrund der in Ziffer 2 beschriebenen Verschlüsselungsmaßnahmen nicht möglich ist, Sie zu identifizieren und wir mangels Zugriffs auf die von unseren Nutzern gespeicherten Dokumente auch keine Kenntnis davon haben bzw. erlangen können, ob zu Ihrer Person tatsächlich Angaben bei uns gespeichert sind. Gemäß Art. 11 Abs. 1 DSGVO sind wir zur bloßen Einhaltung der DSGVO nicht verpflichtet, zusätzliche Informationen aufzubewahren, einzuholen oder zu verarbeiten, um die betroffene Person zu identifizieren, soweit für die Zwecke, für die personenbezogene Daten verarbeitet werden, die Identifizierung der betroffenen Person, wie im Falle der Data4Life-Plattform der Fall, durch den Verantwortlichen nicht erforderlich ist.
